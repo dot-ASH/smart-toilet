@@ -22,6 +22,6 @@
 ## Snapshot
 
 ###### WebApp
-![[desk.png]]![[tall.png | 400]]
+![[desk.png]] ![[tall.png | 400]]
 
 [learn more](https://randomnerdtutorials.com/esp32-async-web-server-espasyncwebserver-library/)
